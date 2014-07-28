@@ -27,3 +27,6 @@ Desktop
 .Xauthority
 .xsession-errors
 .xsession-errors.old
+.ccache
+.purple
+gz
